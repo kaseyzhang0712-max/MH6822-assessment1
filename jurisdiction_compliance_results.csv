@@ -1,0 +1,3 @@
+jurisdiction,threshold,approval_disparity,status,alert,main_focus
+US,0.1,0.0707984416282299,Pass,No material fairness alert under current threshold.,Adverse action explanation and fair lending monitoring
+EU,0.05,0.0707984416282299,Breach,Fairness risk detected. Human review required.,High-risk AI bias testing and governance oversight
